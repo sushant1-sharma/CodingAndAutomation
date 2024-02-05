@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89989eb8-767e-48ae-aec7-0008b7d970a7" name="Changes" comment="">
-<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/sumOf.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/IntegerToRoman.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/PatternSearch.java" afterDir="false" />
@@ -44,9 +43,7 @@
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/DummyAPIs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/DummyAPIs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/SortHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/SortHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
-=======
       <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/arerotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/arerotations.java" afterDir="false" />
->>>>>>> origin/main
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
