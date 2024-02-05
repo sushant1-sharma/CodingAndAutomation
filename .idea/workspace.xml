@@ -5,16 +5,66 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89989eb8-767e-48ae-aec7-0008b7d970a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/sumOf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/IntegerToRoman.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/PatternSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/arerotations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/firstNonRepeatingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/firstRepeatingCharacter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/romanToInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/SeleniumAutomation/AmazonAutomation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/requestBody.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/requestBody.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/utils/requestBodySchema.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/requestBodySchema.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Arrays/SortWithoutBuiltInSortMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Arrays/SortWithoutBuiltInSortMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/LinkedList/Implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/LinkedList/Implementation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/Fibonacci.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/NumberPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/NumberPalindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/PrimeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/SwapWithoutThirdVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/SwapWithoutThirdVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Stack/BalancedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Stack/BalancedString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/ConvertLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/ConvertLetters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/LeedCodeHard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/LeedCodeHard.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/LeetCodeEasy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/LeetCodeEasy.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/LeetCodeMedium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/LeetCodeMedium.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/RemoveDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/ReverseString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/ReverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/ReverseWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/StringPalindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/StringPalindrom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/StringsAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/StringsAnagram.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/countLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/countLetters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/BaseTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/features/OEAPI.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/features/OEAPI.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/Automation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/Automation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/BookAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/BookAPI.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/DummyAPIs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/DummyAPIs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/SortHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/SortHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2aQiNgkRmATuttwYk79kwUwnBsJ" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
@@ -23,10 +73,162 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BalancedString.executor": "Run",
+    "Application.ConvertLetters.executor": "Run",
+    "Application.Fibonacci.executor": "Run",
+    "Application.Implementation.executor": "Run",
+    "Application.NumberPalindrome.executor": "Run",
+    "Application.Palindrome.executor": "Run",
+    "Application.PrimeNumber.executor": "Run",
+    "Application.RemoveDuplicates.executor": "Run",
+    "Application.ReverseString.executor": "Run",
+    "Application.ReverseWords.executor": "Run",
+    "Application.SortWithoutBuiltInSortMethod.executor": "Run",
+    "Application.StringPalindrom.executor": "Run",
+    "Application.StringsAnagram.executor": "Run",
+    "Application.SwapWithoutThirdVariable.executor": "Run",
+    "Application.countLetters.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG./Users/sushantsharma/Downloads/InterviewPreparation/testng.xml.executor": "Run",
+    "TestNG.AmazonAutomation (1).executor": "Run",
+    "TestNG.AmazonAutomation.amazonAutomation.executor": "Run",
+    "TestNG.AmazonAutomation.executor": "Run",
+    "TestNG.Automation.APIAutomation (1).executor": "Run",
+    "TestNG.Automation.APIAutomation (2).executor": "Run",
+    "TestNG.Automation.APIAutomation.executor": "Run",
+    "TestNG.BookAPI.bookAPI (1).executor": "Run",
+    "TestNG.BookAPI.bookAPI (2).executor": "Run",
+    "TestNG.BookAPI.bookAPI (3).executor": "Run",
+    "TestNG.BookAPI.bookAPI (4).executor": "Run",
+    "TestNG.BookAPI.bookAPI (5).executor": "Run",
+    "TestNG.BookAPI.bookAPI.executor": "Run",
+    "TestNG.DummyAPIs.getExample.executor": "Run",
+    "TestNG.DummyAPIs.putExample.executor": "Run",
+    "TestNG.LeetCodeEasy.findWordsContainingCharacter.executor": "Run",
+    "TestNG.LeetCodeEasy.longestCommonPrefix.executor": "Run",
+    "TestNG.LeetCodeEasy.longestSubStringWithNonRepeatingCharacters (1).executor": "Run",
+    "TestNG.LeetCodeEasy.longestSubStringWithNonRepeatingCharacters.executor": "Run",
+    "TestNG.PatternSearch.NaivePatternSearch.executor": "Run",
+    "TestNG.StringPalindrom.givePalindrome.executor": "Run",
+    "TestNG.arerotations.CheckAreRotations.executor": "Run",
+    "TestNG.firstNonRepeatingCharacter.firstnNonRepeatingCharacter.executor": "Run",
+    "TestNG.firstRepeatingCharacter.firstRepeatingcharacter.executor": "Run",
+    "TestNG.romanToInteger.romanToIntegerConvert.executor": "Run",
+    "TestNG.sumOf.myCode.executor": "Run",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/sushantsharma/Downloads/InterviewPreparation"
   }
 }]]></component>
+  <component name="RunManager" selected="TestNG.arerotations.CheckAreRotations">
+    <configuration name="PatternSearch.NaivePatternSearch" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterviewPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructuresAndAlgorithms.Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructuresAndAlgorithms.Strings" />
+      <option name="MAIN_CLASS_NAME" value="DataStructuresAndAlgorithms.Strings.PatternSearch" />
+      <option name="METHOD_NAME" value="NaivePatternSearch" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arerotations.CheckAreRotations" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterviewPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructuresAndAlgorithms.Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructuresAndAlgorithms.Strings" />
+      <option name="MAIN_CLASS_NAME" value="DataStructuresAndAlgorithms.Strings.arerotations" />
+      <option name="METHOD_NAME" value="CheckAreRotations" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="firstNonRepeatingCharacter.firstnNonRepeatingCharacter" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterviewPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructuresAndAlgorithms.Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructuresAndAlgorithms.Strings" />
+      <option name="MAIN_CLASS_NAME" value="DataStructuresAndAlgorithms.Strings.firstNonRepeatingCharacter" />
+      <option name="METHOD_NAME" value="firstnNonRepeatingCharacter" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="firstRepeatingCharacter.firstRepeatingcharacter" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterviewPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructuresAndAlgorithms.Strings.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructuresAndAlgorithms.Strings" />
+      <option name="MAIN_CLASS_NAME" value="DataStructuresAndAlgorithms.Strings.firstRepeatingCharacter" />
+      <option name="METHOD_NAME" value="firstRepeatingcharacter" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="sumOf.myCode" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="InterviewPreparation" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="DataStructuresAndAlgorithms.Mathematics.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="DataStructuresAndAlgorithms.Mathematics" />
+      <option name="MAIN_CLASS_NAME" value="DataStructuresAndAlgorithms.Mathematics.sumOf" />
+      <option name="METHOD_NAME" value="myCode" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.arerotations.CheckAreRotations" />
+        <item itemvalue="TestNG.PatternSearch.NaivePatternSearch" />
+        <item itemvalue="TestNG.firstRepeatingCharacter.firstRepeatingcharacter" />
+        <item itemvalue="TestNG.firstNonRepeatingCharacter.firstnNonRepeatingCharacter" />
+        <item itemvalue="TestNG.sumOf.myCode" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-17.0.9-corretto-17.0.9-8336523bb0d9-301ddabe" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -48,5 +250,15 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.StringIndexOutOfBoundsException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
