@@ -5,44 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="89989eb8-767e-48ae-aec7-0008b7d970a7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/sumOf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/IntegerToRoman.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/PatternSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/arerotations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/firstNonRepeatingCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/firstRepeatingCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/romanToInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/SeleniumAutomation/AmazonAutomation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/requestBody.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/requestBody.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/utils/requestBodySchema.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/utils/requestBodySchema.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Arrays/SortWithoutBuiltInSortMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Arrays/SortWithoutBuiltInSortMethod.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/LinkedList/Implementation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/LinkedList/Implementation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/Fibonacci.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/Fibonacci.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/NumberPalindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/NumberPalindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/PrimeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/PrimeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/SwapWithoutThirdVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Mathematics/SwapWithoutThirdVariable.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Stack/BalancedString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Stack/BalancedString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/ConvertLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/ConvertLetters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/LeedCodeHard.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/LeedCodeHard.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/LeetCodeEasy.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/LeetCodeEasy.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/LeetCodeMedium.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/LeetCodeMedium.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/Palindrome.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/RemoveDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/RemoveDuplicates.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/ReverseString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/ReverseString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/ReverseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/ReverseWords.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/StringPalindrom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/StringPalindrom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/StringsAnagram.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/StringsAnagram.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/countLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/countLetters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/BaseTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/BaseTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/features/OEAPI.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/features/OEAPI.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/Automation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/Automation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/BookAPI.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/BookAPI.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/DummyAPIs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/DummyAPIs.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/SortHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/org/example/stepDefinition/SortHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/arerotations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/DataStructuresAndAlgorithms/Strings/arerotations.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
