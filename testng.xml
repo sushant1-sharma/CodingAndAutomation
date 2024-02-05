@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="MyTestSuite" verbose="1" parallel="tests" thread-count="2">
+    <listeners>
+        <listener class-name="org.testng.reporters.EmailableReporter" />
+    </listeners>
+    <test name="MyTestClass">
+        <classes>
+            <class name="org.example.stepDefinition.BookAPI" >
+            <methods>
+                <exclude name="bookAPI" />
+            </methods>
+            </class>
+            <class name="org.example.stepDefinition.DummyAPIs" />
+            <class name="org.example.stepDefinition.SortHashMap" />
+        </classes>
+    </test>
+</suite>
