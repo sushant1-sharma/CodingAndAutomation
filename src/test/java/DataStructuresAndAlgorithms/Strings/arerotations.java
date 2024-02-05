@@ -7,7 +7,7 @@ public class arerotations {
     @Test
     public void CheckAreRotations() {
         String s1 = "ABCD";
-        String s2 = "BCDAF";
+        String s2 = "BCDAFO";
         if (s1.length() != s2.length())
             System.out.println(false);
         String temp = s1 + s1;
